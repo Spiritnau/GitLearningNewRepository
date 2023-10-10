@@ -1,3 +1,5 @@
+I added a new part of the text for the MODULE 8: LEARNING GIT AND GITHUB
+
 sword and spear
 wall of shields
 standing strong
@@ -18,5 +20,6 @@ Don't look back
 Oden's sons
 Attack!
 
-for tag only
+
+
 
