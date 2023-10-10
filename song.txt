@@ -2,6 +2,7 @@ I added a new part of the text for the MODULE 8: LEARNING GIT AND GITHUB
 I added second part of the task for the MODULE 8: LEARNING GIT AND GITHUB
 
 Fitst commits to the "feature" branch
+Second commits to the "feature" branch
 
 sword and spear
 wall of shields
